@@ -13,10 +13,6 @@ _I'm delving deeper into backend development, exploring microservices concepts, 
 >._ <br/>
 I'm interested in creating efficient and scalable solutions, applying best practices in programming and systems design. I'm always looking to learn new technologies and contribute to projects that promote innovation and quality. <br/>
 
-##
-
-<b> ✅ Contributions: </b>
-
 <table>
   <tr>
     <td width="60%" align="center"><br>
@@ -57,6 +53,14 @@ I'm interested in creating efficient and scalable solutions, applying best pract
   </tr>
 </table>
 
-##
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hudson-amorim/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza37yavuz" height="30" width="40" /></a>
+</p>
+<br>
+<br>
+<br>
+
 
 
