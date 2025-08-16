@@ -16,11 +16,11 @@ I'm interested in creating efficient and scalable solutions, applying best pract
   <tr>
     <td width="60%" align="center"><br>
   <br>
-      <img width="100" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-      <picture >
+      
+      
         
       
-<b> Skills: <br><br>
+<b> <br><br>
 
 <div align="center">
   <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
