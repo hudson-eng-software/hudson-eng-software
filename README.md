@@ -1,5 +1,10 @@
 <h1>👨🏻‍💻 Hudson Amorim   </h3>  
-<h4></h4>   
+<p align="left">
+  <strong style="font-size:18px;"> Software Engineer • Java Developer • Spring Boot • REST APIs </strong><br>
+  <sub>🚀 Focused on scalable solutions | ✨ Clean Code & Best Practices
+
+</sub>
+</p>  
 
 <b>  What am I currently working on?</b>
 
