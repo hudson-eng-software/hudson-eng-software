@@ -1,15 +1,16 @@
-<h3>Olá, seja-vindo(a) ao meu perfil, eu sou Hudson Amorim !  </h3>  
+<h1>👨🏻‍💻 Hudson Amorim   </h3>  
 <h4></h4>   
 
-<b> 👨🏻‍💻 No que estou trabalhando atualmente?</b>
+<b>  What am I currently working on?</b>
 
->_Estou desenvolvendo exercícios em Java, Spring boot, APIrest e cursando Análise e Desenvolvimento de Sistemas;_ <br/>
-_Estou me aprofundando no desenvolvimento back-end, explorando conceitos de microserviços e aprimorando minhas habilidades em bancos de dados._ <br/>
-_Tenho interesse em criar soluções eficientes e escaláveis, aplicando boas práticas de programação e design de sistemas. Estou sempre em busca de aprender novas tecnologias e contribuir com projetos que promovam inovação e qualidade._ <br/>
+>_I am developing exercises in Java, Spring Boot, APIrest and studying Systems Analysis and Development;_ <br/>
+_I'm delving deeper into backend development, exploring microservices concepts, and honing my database skills.
+>._ <br/>
+I'm interested in creating efficient and scalable solutions, applying best practices in programming and systems design. I'm always looking to learn new technologies and contribute to projects that promote innovation and quality. <br/>
 
 ##
 
-<b> ✅ Contribuições: </b>
+<b> ✅ Contributions: </b>
 
 <table>
   <tr>
@@ -17,13 +18,9 @@ _Tenho interesse em criar soluções eficientes e escaláveis, aplicando boas pr
   <br>
       <img width="100" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
       <picture >
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
-        <img width="100%" alt="github contribution grid snake animation"
-             src="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
-      </picture><br><br>
+        
       
-<b> Habilidades: <br><br>
+<b> Skills: <br><br>
 
 <div align="center">
   <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
