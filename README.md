@@ -22,6 +22,8 @@ I'm interested in creating efficient and scalable solutions, applying best pract
         
       
 <b> <br><br>
+<img width="400" height="200" alt="Cabeçalho-removebg-preview" src="https://github.com/user-attachments/assets/1ee61a2e-a8fc-4230-99ce-5832a80028e6" />
+
 
 <div align="center">
   <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
