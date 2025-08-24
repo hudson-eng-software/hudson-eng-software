@@ -18,8 +18,12 @@ I'm interested in creating efficient and scalable solutions, applying best pract
     <td width="60%" align="center"><br>
   <br>
      
-<b> <br><br>
-<img width="400" height="200" alt="Cabeçalho-removebg-preview" src="https://github.com/user-attachments/assets/1ee61a2e-a8fc-4230-99ce-5832a80028e6" />
+<b> <br>GitHub Stats<br>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hudson-eng-software&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudson-eng-software&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
 <div align="center">
   <img align="center" alt="c#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
