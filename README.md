@@ -20,9 +20,9 @@ I'm interested in creating efficient and scalable solutions, applying best pract
      
 <b> <br>GitHub Stats<br>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hudson-eng-software&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudson-eng-software&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudson-eng-software&theme=radical" alt="Profile Details">
+ <im</p>
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
