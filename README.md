@@ -18,7 +18,7 @@ I'm interested in creating efficient and scalable solutions, applying best pract
     <td width="60%" align="center"><br>
   <br>
      
-<b> <br>📊 GitHub Analytics<br>
+<b> <br><h1>📊 GitHub Analytics</h1><br>
 <p align="left">
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudson-eng-software&theme=radical" alt="Profile Details">
