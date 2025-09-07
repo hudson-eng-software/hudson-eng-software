@@ -6,7 +6,7 @@
 </sub>
 </p>  
 
-<b>  What am I currently working on?</b>
+<b>  💫 What am I currently working on?</b>
 
 >_I am developing exercises in Java, Spring Boot, APIrest and studying Systems Analysis and Development;_ <br/>
 _I'm delving deeper into backend development, exploring microservices concepts, and honing my database skills.
