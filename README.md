@@ -18,12 +18,13 @@ I'm interested in creating efficient and scalable solutions, applying best pract
     <td width="60%" align="center"><br>
   <br>
      
-<b> <br>GitHub Stats<br>
+<b> <br>📊 GitHub Analytics<br>
 <p align="left">
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudson-eng-software&theme=radical" alt="Profile Details">
  <im</p>
-
+   
+---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
