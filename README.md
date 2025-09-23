@@ -45,7 +45,6 @@ I'm interested in creating efficient and scalable solutions, applying best pract
 
 <br>
 
-<br><img width="1584" height="396" alt="Hudson L  Amorim" src="https://github.com/user-attachments/assets/30e495cc-d304-4b8c-9764-393e1058facb" />
 
 
 <br>
