@@ -47,25 +47,16 @@ Software engineer focused on backend development, architecture, clean code, and 
 
 ## `[ 03 ] // PROJECT FILES`
 
-<!-- Replace REPO-NAME-1..4 with your repository names. Cards update automatically. -->
-
+<!-- Update the repository URL below to match your J.A.R.V.I.S. repo. -->
 <div align="center">
 
-<a href="https://github.com/hudson-eng-software/REPO-NAME-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-1&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/hudson-eng-software/REPO-NAME-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-2&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 2"/>
-</a>
-
-<a href="https://github.com/hudson-eng-software/REPO-NAME-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-3&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 3"/>
-</a>
-<a href="https://github.com/hudson-eng-software/REPO-NAME-4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-4&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 4"/>
+<a href="https://github.com/hudson-eng-software/JARVIS">
+  <img width="100%" src="assets/jarvis-project.svg" alt="J.A.R.V.I.S. personal AI assistant project cover"/>
 </a>
 
 </div>
+
+> **PROJECT 01 // J.A.R.V.I.S.** — A personal AI assistant I'm building from scratch. Currently in development.
 
 ---
 
@@ -117,8 +108,17 @@ Software engineer focused on backend development, architecture, clean code, and 
 
 ---
 
+## `[ 07 ] // DESIGN NOTES`
 
-## `[ 07 ] // OPEN CHANNEL`
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Developer workspace animation"/>
+
+</div>
+
+---
+
+## `[ 08 ] // OPEN CHANNEL`
 
 <div align="center">
 
