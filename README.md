@@ -78,53 +78,10 @@ Software engineer focused on backend development, architecture, clean code, and 
 
 ---
 
-## `[ 05 ] // GITHUB TELEMETRY`
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudson-eng-software&theme=github_dark" alt="Profile Details"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/?username=hudson-eng-software&show_icons=true&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-eng-software&layout=compact&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&border_color=FFFFFF&hide_border=false" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=hudson-eng-software&theme=dark&background=0B3A82&ring=FFFFFF&fire=C0C8D4&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=FFFFFF33&border=FFFFFF" alt="Streak"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hudson-eng-software&bg_color=0B3A82&color=FFFFFF&line=FFFFFF&point=C0C8D4&area=true&area_color=FFFFFF&hide_border=true&custom_title=ACTIVITY%20SCAN" alt="Activity Graph"/>
-
-</div>
 
 ---
 
-## `[ 06 ] // ENGINEERING PROTOCOLS`
-
-```text
-[01]  Readability over unnecessary complexity.
-[02]  Maintainability over short-term shortcuts.
-[03]  Architecture driven by clear responsibilities.
-[04]  Automation and repeatability wherever possible.
-[05]  AI applied to solve real engineering problems.
-[06]  Continuous improvement through experimentation.
-```
-
----
-
-## `[ 07 ] // DESIGN NOTES`
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Developer workspace animation"/>
-
-</div>
-
----
-
-## `[ 08 ] // OPEN CHANNEL`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=C0C8D4&center=true&vCenter=true&width=520&lines=%22Sometimes+you+gotta+run+before+you+can+walk.%22;Let's+build+something+meaningful." alt="Quote"/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ESTABLISH_CONNECTION-0B3A82?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B3A82&color=FFFFFF)](https://www.linkedin.com/in/hudson-amorim/)
 
 `END OF TRANSMISSION // HUDSON AMORIM`
 
