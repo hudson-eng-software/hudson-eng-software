@@ -2,9 +2,6 @@
 
 <img width="100%" src="assets/header.svg" alt="Header"/>
 
-<!-- ARC REACTOR: coloque seu gif em assets/arc-reactor.gif e descomente -->
-<!-- <img src="assets/arc-reactor.gif" width="140" alt="Arc Reactor"/> -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=%3E+Inicializando+sistemas...;%3E+Software+Engineer+%C2%B7+Backend+%C2%B7+AI+Engineering;%3E+Java+%C2%B7+Spring+Boot+%C2%B7+Salesforce+%C2%B7+Cloud;%3E+Engineering+scalable+systems.+Designing+intelligent+solutions." alt="Typing SVG"/>
 
 <br/>
@@ -19,26 +16,15 @@
 
 ## `[ 01 ] // BOOT SEQUENCE`
 
-```text
-╔════════════════════════════════════════════════════════════════╗
-║  STARK INDUSTRIES // PERSONAL ENGINEERING INTERFACE v1.0       ║
-╠════════════════════════════════════════════════════════════════╣
-║  > USER ............ HUDSON AMORIM                             ║
-║  > CLASS ........... SOFTWARE ENGINEER                         ║
-║  > CORE ............ JAVA · SPRING BOOT · REST APIs            ║
-║  > CRM / PLATFORM .. SALESFORCE · APEX · LWC · FLOWS           ║
-║  > DATA ............ SQL · SOQL · MONGODB · HIBERNATE          ║
-║  > INFRA ........... AWS · LINUX · GIT                         ║
-║  > EMERGING ........ ARTIFICIAL INTELLIGENCE · AI APPS         ║
-║  > MISSION ......... SCALABLE, MAINTAINABLE, INTELLIGENT       ║
-╠════════════════════════════════════════════════════════════════╣
-║  ARC REACTOR [██████████] 100%      J.A.R.V.I.S. [ONLINE]      ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-> **MISSION:** Projetar, desenvolver e evoluir sistemas escaláveis, manutenáveis e inteligentes.
+<img width="100%" src="assets/boot-sequence.svg" alt="Arc reactor and J.A.R.V.I.S. boot sequence"/>
 
-Engenheiro de software focado em backend, arquitetura, clean code e soluções com IA. Estudo system design, microservices, APIs, bancos de dados, cloud e a integração de inteligência artificial em aplicações reais.
+</div>
+
+> **MISSION:** Design, develop, and evolve scalable, maintainable, and intelligent software systems.
+
+Software engineer focused on backend development, architecture, clean code, and AI-powered solutions. I study system design, microservices, APIs, databases, cloud infrastructure, and the integration of artificial intelligence into real-world applications.
 
 ---
 
@@ -46,14 +32,14 @@ Engenheiro de software focado em backend, arquitetura, clean code e soluções c
 
 <div align="center">
 
-| 🔷 MÓDULO | ⚙️ DESCRIÇÃO | 📡 STATUS |
+| 🔷 MODULE | ⚙️ DESCRIPTION | 📡 STATUS |
 |:--|:--|:--:|
-| **Backend Core** | Java, Spring Boot, APIs REST, validação e integração | 🟢 ONLINE |
-| **Architecture** | Modularidade, clean code e manutenibilidade | 🟢 ONLINE |
-| **Data Layer** | Modelagem, SQL, Hibernate, MongoDB | 🟢 ONLINE |
-| **Salesforce** | Apex, LWC, SOQL/SOSL, Flows e integrações | 🟢 ONLINE |
-| **Cloud & DevOps** | AWS, Linux, automação e deploy | 🟡 EVOLVING |
-| **AI Engineering** | Apps com IA e workflows inteligentes | 🟡 EVOLVING |
+| **Backend Core** | Java, Spring Boot, REST APIs, validation and integration | 🟢 ONLINE |
+| **Architecture** | Modularity, clean code and maintainability | 🟢 ONLINE |
+| **Data Layer** | Data modeling, SQL, Hibernate, MongoDB | 🟢 ONLINE |
+| **Salesforce** | Apex, LWC, SOQL/SOSL, Flows and integrations | 🟢 ONLINE |
+| **Cloud & DevOps** | AWS, Linux, automation and deployment | 🟡 EVOLVING |
+| **AI Engineering** | AI-powered apps and intelligent workflows | 🟡 EVOLVING |
 
 </div>
 
@@ -61,22 +47,22 @@ Engenheiro de software focado em backend, arquitetura, clean code e soluções c
 
 ## `[ 03 ] // PROJECT FILES`
 
-> Substitua `NOME-DO-REPO` pelos nomes dos seus repositórios. Os cards são atualizados automaticamente.
+<!-- Replace REPO-NAME-1..4 with your repository names. Cards update automatically. -->
 
 <div align="center">
 
-<a href="https://github.com/hudson-eng-software/NOME-DO-REPO-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=NOME-DO-REPO-1&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 1"/>
+<a href="https://github.com/hudson-eng-software/REPO-NAME-1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-1&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 1"/>
 </a>
-<a href="https://github.com/hudson-eng-software/NOME-DO-REPO-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=NOME-DO-REPO-2&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 2"/>
+<a href="https://github.com/hudson-eng-software/REPO-NAME-2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-2&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 2"/>
 </a>
 
-<a href="https://github.com/hudson-eng-software/NOME-DO-REPO-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=NOME-DO-REPO-3&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 3"/>
+<a href="https://github.com/hudson-eng-software/REPO-NAME-3">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-3&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 3"/>
 </a>
-<a href="https://github.com/hudson-eng-software/NOME-DO-REPO-4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=NOME-DO-REPO-4&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 4"/>
+<a href="https://github.com/hudson-eng-software/REPO-NAME-4">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hudson-eng-software&repo=REPO-NAME-4&bg_color=0B3A82&title_color=FFFFFF&text_color=C9D1D9&icon_color=C0C8D4&border_color=FFFFFF&hide_border=false" alt="Projeto 4"/>
 </a>
 
 </div>
